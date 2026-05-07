@@ -98,7 +98,7 @@ Snake-Game/
 
 ## Author
 
-**Engineer Sherina**
+Raja Sherina T
 
 GitHub: Add your GitHub profile link here.
 
