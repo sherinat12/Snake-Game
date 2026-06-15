@@ -1,5 +1,4 @@
 # Snake Game in C
-hh  
 
 
 
