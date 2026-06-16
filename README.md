@@ -1,6 +1,6 @@
 # Snake Game in C 
 
-fddegh gggg juttr werttyuuu ccvvbbnnjioplkmmmxzAaswqq fff
+fddegh gggg juttr werttyuuu ccvvbbnnjioplkmmmxzAaswqq
 
 
 
